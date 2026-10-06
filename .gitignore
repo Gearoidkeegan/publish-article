@@ -1,0 +1,8 @@
+# Drafts and generated images stay local
+*.docx
+*.png
+*.webp
+
+# Python bytecode
+__pycache__/
+*.pyc

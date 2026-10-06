@@ -1,0 +1,11 @@
+{
+  "name": "publish-article",
+  "description": "Turn a Word (.docx) draft into a published article on a markdown or static-site website, without losing text boxes, SmartArt, images or the author's emphasis. Uses your own house style or a published article as the template.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gearoidkeegan"
+  },
+  "repository": "https://github.com/Gearoidkeegan/publish-article",
+  "license": "MIT",
+  "keywords": ["publishing", "blog", "docx", "markdown", "static-site", "content"]
+}
