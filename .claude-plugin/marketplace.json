@@ -1,15 +1,15 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "publish-article",
-  "description": "A free Claude Code plugin for publishing Word drafts to your website",
+  "description": "A free Claude Code plugin for publishing Word drafts to your website and social media",
   "owner": {
     "name": "Gearoidkeegan"
   },
   "plugins": [
     {
       "name": "publish-article",
-      "description": "Turn a Word (.docx) draft into a published article on a markdown or static-site website, without losing text boxes, SmartArt, images or the author's emphasis. Uses your own house style or a published article as the template.",
-      "version": "1.0.0",
+      "description": "Turn a Word (.docx) draft into a published article on a markdown or static-site website without losing text boxes, SmartArt, images or the author's emphasis, then make a branded social pack from it: carousel, quote cards, link image and post copy. Uses your own house style and brand.",
+      "version": "1.1.0",
       "source": "./"
     }
   ]

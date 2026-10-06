@@ -50,6 +50,7 @@ Give the exact markup for each one, or write `none` (Claude then uses plain mark
 - Fonts and where the font files live (for rendering card images): 
 - Colours (or the CSS file that defines them): 
 - Stylesheet(s) to link when rendering a card mock-up: 
+- Logo file (transparent PNG; the social-pack skill uses it too): 
 
 ## Publishing
 - Build command: 
